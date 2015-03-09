@@ -1,1 +1,1 @@
-cc.log("Hello World!");
+cc.log("First Hello World!");
