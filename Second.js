@@ -1,1 +1,1 @@
-cc.log("Hello Second World!!!");
+cc.log("Hello Second World LaLala!!!");
